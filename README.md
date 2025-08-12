@@ -1,2 +1,2 @@
 # my-first-project
-Testing GitHub
+Testing GitHub (beginner)
